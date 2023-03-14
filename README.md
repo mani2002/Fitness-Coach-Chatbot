@@ -27,3 +27,4 @@ The code also includes a prompt string that defines the initial prompt for the c
 
 
 # Result
+![Result image](https://github.com/mani2002/Fitness-Coach-Chatbot/blob/main/Result.png)
